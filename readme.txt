@@ -1,0 +1,1 @@
+Input a directories, then you can search all the words in the directories files include all the files in the child direcories.
